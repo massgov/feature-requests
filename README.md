@@ -22,7 +22,11 @@ Each issue is represented by a “card.” As we make progress on an issue inter
 ## Explore the issues
 Clicking an card’s title will bring up a preview of that issue on the right side of your browser. If an issue has a long description, or if you want to read what others have said about the issue, click the “full details” button at the bottom of the preview. The full details view includes all the comments that others have added to the issue. 
 
+![text](https://github.com/massgov/feature-requests/blob/master/images/preview.jpg)
+
 Use the search bar in the upper right to search for issues that interest you. Anything you enter will filter out all cards that don’t include your search term(s). 
+
+![clear your search](https://github.com/massgov/feature-requests/blob/master/images/X%20ON%20SEARCHBAR.jpg)
 
 You can also filter by label. At the bottom of each card you’ll see 1 or more labels, which describe the issue and/or what the issue affects. Clicking a label will tell the board to show you only the cards that include that label. You can also use the search bar to search for a label by typing “label: ” and the subject. For example, if you’re interested in image-related issues, you would search for “label: images.”
 
@@ -36,11 +40,13 @@ Digital Services prioritizes issues that many content authors have asked for, an
 
 **Note**: We highly recommend you create a username using your state email address and full name. This will make it easier for us to reach out to you directly. Also, this will direct email notifications about issues to which you’re subscribed your work email. 
 
-If you’re logged in, you can vote for an issue either from its preview or from its detailed view. To vote from the preview, click the gray smiley face icon in the upper right. Choose the “thumbs up” or “thumbs down” to vote for or against an issue. We also recommend you leave a comment telling us why you voted the way you did. 
+If you’re logged in, you can vote for an issue either from its preview or from its detailed view. To vote from the preview, mouse over the description of the issue, and a gray smile face icon will appear in the upper right. Choose the “thumbs up” or “thumbs down” to vote for or against an issue. We also recommend you leave a comment telling us why you voted the way you did. 
 
 You’ll see your reaction appear beneath the previews’ issue description.
 
 From the full details view, you can add a reaction to the main issue description and to any of the comments on the issue. To do this, find the gray smiley face dropdown in the upper right of the description or commend and choose your preferred emoji. 
+
+![How to vote](https://github.com/massgov/feature-requests/blob/master/images/vote%20full%20size.jpg)
 
 You can also write a comment in the box at the bottom of the issue’s detailed view. You can delete and edit comments once you’ve posted them. 
 
@@ -51,9 +57,10 @@ If your issue doesn’t exist on our Feature Request board, you can create it. H
 
 ### Step 1
 Click the “issues” tab in the menu at the top of the board.
+![find the issues tab](https://github.com/massgov/feature-requests/blob/master/images/step%201.jpg)
 
 ### Step 2
-Click the “new issue” button, and then the “get started” button.
+Click the “new issue” button in the upper right, and then the “get started” button.
 
 ### Step 3
 Write up your feature request. Here are a few tips for creating effective write ups. 
