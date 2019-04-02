@@ -13,7 +13,7 @@ To post an issue on the board, you’ll need a Github account. If you don’t ha
 ## How to use the Feature Request board
 The <a href="https://github.com/massgov/feature-requests/projects/3">Feature Request board</a> is open to the public. You can bookmark it, or you get to it from the “projects” tab from our Github repository’s navigation menu.
 
-The Feature Request board is made up of 4 columns. The **New** column is for issues so recent that Digital Services hasn’t had a chance to discuss them yet, let alone assign them to anyone. Once we’ve begun talking about them internally, we’ll move them to the **Active Discussion** column. 
+The Feature Request board is made up of 4 columns. The **New** column is for issues so recent that Digital Service hasn’t had a chance to discuss them yet, let alone assign them to anyone. Once we’ve begun talking about them internally, we’ll move them to the **Active Discussion** column. 
 
 Once we’ve determined what needs to be done, we’ll move an issue to the **queued for work** column. Finally, once we’ve finished work--or if we determine we can’t work on the issue in the foreseeable future--we’ll move it to the **Done/No Further Action** column.
 
@@ -36,7 +36,7 @@ Clicking “menu” at the top right of the screen will present you with a view 
 
 ## Help us prioritize work by advocating for issues that matter to you
 
-Digital Services prioritizes issues that many content authors have asked for, and that will have the biggest impact on Mass.gov users. You’ll need to be logged in to Github to comment or create an issue. If you don’t have a Github account, <a href="https://github.com/join?source=header-repo">creating one</a> is free. 
+Digital Service prioritizes issues that many content authors have asked for, and that will have the biggest impact on Mass.gov users. You’ll need to be logged in to Github to comment or create an issue. If you don’t have a Github account, <a href="https://github.com/join?source=header-repo">creating one</a> is free. 
 
 **Note**: We highly recommend you create a username using your state email address and full name. This will make it easier for us to reach out to you directly. Also, this will direct email notifications about issues to which you’re subscribed your work email. 
 
