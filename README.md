@@ -1,6 +1,6 @@
 # Let’s work together: The Feature Request Board 
 ## How you can advocate for the Mass.gov enhancements and updates that matter to you
-We’re inviting you to collaborate with us on a <a href="https://github.com/massgov/feature-requests/projects/3">Feature Request board</a>, where you can suggest new features, see what others have suggested, contribute use cases, and vote for your priorities.
+We’re inviting you to collaborate with us on a <a href="https://github.com/massgov/feature-requests/projects/9">Feature Request board</a>, where you can suggest new features, see what others have suggested, contribute use cases, and vote for your priorities.
 
 To post an issue on the board, you’ll need a Github account. If you don’t have one, <a href="https://github.com/join?source=header-repo">creating a Github account</a> is free. Even if you don’t have any features to request, you’ll be able to comment on, vote for, and track the issues that matter to you. Reading your use cases will help our development teams identify the most consequential work we could be doing to improve Mass.gov.
 
