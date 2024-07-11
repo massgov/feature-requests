@@ -1,17 +1,17 @@
 # Let’s work together: The Feature Request Board 
 ## How you can advocate for the Mass.gov enhancements and updates that matter to you
-We’re inviting you to collaborate with us on a <a href="https://github.com/massgov/feature-requests/projects/9">Feature Request board</a>, where you can suggest new features, see what others have suggested, contribute use cases, and vote for your priorities.
+We’re inviting you to collaborate with us on a <a href="https://github.com/orgs/massgov/projects/9">Feature Request board</a>, where you can suggest new features, see what others have suggested, contribute use cases, and vote for your priorities.
 
 To post an issue on the board, you’ll need a Github account. If you don’t have one, <a href="https://github.com/join?source=header-repo">creating a Github account</a> is free. Even if you don’t have any features to request, you’ll be able to comment on, vote for, and track the issues that matter to you. Reading your use cases will help our development teams identify the most consequential work we could be doing to improve Mass.gov.
 
 ## Want to dive in right away? Here’s how in 4 easy steps:
 1. <a href="https://github.com/join?source=header-repo">Create a GitHub account</a> and log in.
-2. Head over to the <a href="https://github.com/massgov/feature-requests/projects/3">Feature Request board</a>
+2. Head over to the <a href="https://github.com/orgs/massgov/projects/9">Feature Request board</a>
 3. Click on an issue to review, vote for, or comment on existing requests...
 4. ...or <a href="https://github.com/massgov/feature-requests/issues/new/choose">create your own feature request</a>
 
 ## How to use the Feature Request board
-The <a href="https://github.com/massgov/feature-requests/projects/3">Feature Request board</a> is open to the public. You can bookmark it, or you get to it from the “projects” tab from our Github repository’s navigation menu.
+The <a href="https://github.com/orgs/massgov/projects/9">Feature Request board</a> is open to the public. You can bookmark it, or you get to it from the “projects” tab from our Github repository’s navigation menu.
 
 The Feature Request board is made up of 4 columns. The **New** column is for issues so recent that Digital Service hasn’t had a chance to discuss them yet, let alone assign them to anyone. Once we’ve begun talking about them internally, we’ll move them to the **Active Discussion** column. 
 
